@@ -1,0 +1,401 @@
+.bowi {
+  width: 360px;
+  height: 5000px;
+  margin: auto;
+  background-color: #f2f2f2;
+}
+.tepa-menu {
+  background-color: white;
+  width: 360px;
+  height: 62.5px;
+  left: -9.5px;
+  top: -6px;
+}
+.tepa-menuu {
+  width: 360px;
+  height: 63px;
+}
+.birinci-rasm {
+  padding-bottom: 7px;
+  padding-left: 26px;
+}
+.Наш-телефон {
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 15px;
+}
+.yetti {
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 7px;
+  color: #ff9846;
+}
+.besh- {
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #ff9846;
+  padding-left: 7px;
+}
+.sogat {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 30px;
+}
+
+.ish {
+  font-size: 12px;
+  color: #a4acad;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 15px;
+}
+.ish-sogati {
+  font-size: 12px;
+  color: #a4acad;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.rasmla {
+  margin-top: 21px;
+  margin-left: 12px;
+}
+.rasmla1 {
+  margin-top: 21px;
+  margin-left: 10px;
+}
+.rasmla2 {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.rasmla3 {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.rasmla4 {
+  margin-top: 10px;
+  margin-left: 12px;
+}
+.Подробнее {
+  color: #f46d40;
+  margin-left: 120px;
+  font-size: 24px;
+}
+.img1 {
+  width: 15px;
+  height: 7px;
+}
+.sizee {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  color: #a4acad;
+}
+.sizeee {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 0px;
+  color: #a4acad;
+}
+.whatsapp {
+  margin-left: 75px;
+  margin-bottom: 31px;
+}
+.telegram {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 31px;
+}
+.instagram {
+  margin-bottom: 31px;
+}
+.telll {
+  color: #a4acad;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 110px;
+  font-size: 18px;
+}
+.adres {
+  color: #a4acad;
+  margin-top: 5px;
+  margin-left: 120px;
+  font-size: 18px;
+}
+.en-pasti {
+  width: 360px;
+  height: 72px;
+  background-color: white;
+}
+.menu {
+  margin-top: 11px;
+  margin-left: 60px;
+}
+.karzinka {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.Заказать-суши-в-Бишкеке {
+  font-size: 24px;
+  color: #a4acad;
+  margin-top: 21px;
+  margin-left: 15px;
+}
+.matn {
+  font-size: 18px;
+  color: #a4acad;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.bowi1 {
+  width: 360px;
+ 
+  background-color: #f2f2f2;
+  margin: auto;
+}
+.Ваши-данные {
+  font-size: 24px;
+  margin-top: 10.5px;
+  margin-left: 104px;
+}
+.Фамилия {
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  width: 160px;
+  height: 40px;
+  margin-left: 12px;
+  color: #a4acad;
+  font-size: 18px;
+}
+.Имя {
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  width: 160px;
+  height: 40px;
+  margin-left: 7px;
+  color: #a4acad;
+  font-size: 18px;
+}
+.Курьером {
+  width: 165px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 12px;
+  background-color: #ff9846;
+  border: 0px;
+  font-size: 18px;
+  color: white;
+}
+.Самовывоз {
+  width: 165px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 0px;
+  background-color: white;
+  border: 0px;
+  font-size: 18px;
+  color: black;
+}
+.Улица {
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  width: 330px;
+  height: 40px;
+  margin-left: 12px;
+  color: #a4acad;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.Дом {
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  width: 330px;
+  height: 40px;
+  margin-left: 12px;
+  color: #a4acad;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.Кв {
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  width: 160px;
+  height: 40px;
+  margin-left: 12px;
+  color: #a4acad;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.Подъезд {
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  width: 160px;
+  height: 40px;
+  margin-left: 5px;
+  color: #a4acad;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.Этаж {
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  width: 160px;
+  height: 40px;
+  margin-left: 12px;
+  color: #a4acad;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.Код {
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  width: 160px;
+  height: 40px;
+  margin-left: 5px;
+  color: #a4acad;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.Наличными {
+  margin-left: 10px;
+}
+.image {
+  margin-left: 16px;
+}
+.Сумма {
+  width: 122px;
+  height: 40px;
+  font-size: 18px;
+  border: 0px;
+  border-radius: 5px;
+  color: #a4acad;
+}
+.Подготовить-сдачу-с {
+  font-size: 18px;
+  margin-left: 10px;
+}
+.Палочки {
+  font-size: 20px;
+  margin-left: 14px;
+}
+.puls{
+  margin-left: 14px;
+}
+.Введите-промокод {
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  width: 330px;
+  height: 40px;
+  margin-left: 12px;
+  color: #a4acad;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.E-mail-необязательно {
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  width: 330px;
+  height: 40px;
+  margin-left: 12px;
+  color: #a4acad;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.Комменатрий-к-заказу {
+  background-color: white;
+  border: 0px;
+  border-radius: 5px;
+  width: 330px;
+  height: 40px;
+  margin-left: 12px;
+  color: #a4acad;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.На-сейчас {
+  background-color: #ff9846;
+  width: 166px;
+  height: 40px;
+  color: white;
+  border-radius: 5px;
+  padding-left: 47px;
+}
+.На-время {
+  background-color: white;
+  color: black;
+  width: 166px;
+  border-radius: 5px;
+  padding-left: 43px;
+  height: 40px;
+}
+.товар {
+  margin-left: 46px;
+  font-size: 18px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.Скидка {
+  margin-left: 46px;
+  font-size: 18px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.Доставка {
+  margin-left: 46px;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.som {
+  margin-left: 135px;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.hr {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.Итого {
+  margin-left: 46px;
+  color: #ff9846;
+  font-size: 24px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.som1 {
+  margin-left: 108px;
+  font-size: 24px;
+  color: #ff9846;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.Оформить-заказ {
+  background-color: #ff9846;
+  color: white;
+  width: 330px;
+  height: 48px;
+  border: 0px;
+  border-radius: 5px;
+  margin-top: 30px;
+  margin-left: 15px;
+  margin-bottom: 42px;
+  font-size: 24px  
+}
